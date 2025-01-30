@@ -1,0 +1,9 @@
+1. PYTHON LIGHT BLUE HEART
+
+  2. What is the purpose of your project? Tell about your project. The purpose of my project is to make a light blue heart using codes and to learn more on how to make codes. My project is kind of hard to make 
+  because im not really familiar of different codes. I used and researched different examples of codes and experimented to make a heart. The color of my heart is light blue and the background color is black.
+
+  3. How your program wrorks? Explain how to run your code.
+  My program works by running the code to make a heart. I used imports and parametric functions like (hearta(k)) and (heartb(k)) to calculate the coordinates of a heart and draws 
+  using a turtle module. Dont forget to always put done() before running your code so that your code can run properly an will stop drawing. To run my code i will first download visual studio 
+  code and make my code there, when i finished my code i clicked run and pressed run without debugging and clicked python debugger and the code will run automatically.
